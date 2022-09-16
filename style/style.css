@@ -1,4 +1,7 @@
 *{
     background-color: black;
-    color: white;
+    color: rgba(243, 0, 223, 0.425);
+}
+.neon{
+    text-align: center;
 }
