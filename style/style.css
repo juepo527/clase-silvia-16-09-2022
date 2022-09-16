@@ -5,8 +5,8 @@
 .neon{
     text-align: center;
 }
-p {
-    animation: slidein infinite 12s;
+.lalo {
+    animation: slidein infinite 5s;
   }
   
   @keyframes slidein {
@@ -19,4 +19,19 @@ p {
       margin-left: 0%;
       width: 100%;
     }
+}
+.mojo{
+    animation: anion infinite 12s;
   }
+  
+  @keyframes anion {
+    from {
+        margin-left: 100%;
+      width: 300%
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+}
